@@ -1,11 +1,9 @@
 # zwu-ok
-author: [王爰又]
+author: 王爰又
 ---
 
 
-email: [your-email@example.com](mailto:your-email@example.com)
----
+email: [1196979553@qq.com](mailto:your-email@example.com)
 
 
-date: 2004-07-05
----
+birthday: 2004-07-05
